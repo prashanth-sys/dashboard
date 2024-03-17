@@ -1,0 +1,103 @@
+.board-container {
+  background-color: #000000;
+  width: 588px;
+  height: 1024px;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.board-heading {
+  color: white;
+  font-size: 45px;
+}
+.login-container {
+  display: flex;
+  justify-content: center;
+}
+.page-container {
+  background-color: #f5f5f5;
+  width: 852px;
+  height: 1024px;
+  left: 588px;
+  background-size: cover;
+}
+.sign-heading {
+  margin-left: 15%;
+  margin-top: 15%;
+  color: #000000;
+}
+.sign-description {
+  margin-left: 15%;
+  font-size: 17px;
+  color: #000000;
+}
+.account {
+  background-color: #ffffff;
+  width: 180px;
+  height: 30px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
+.icon {
+  margin-right: 5px;
+}
+.account-container {
+  margin-left: 15%;
+  display: flex;
+}
+.google {
+  color: #858585;
+  font-size: 15px;
+}
+.details-card {
+  background-color: #ffffff;
+  width: 389px;
+  height: 371px;
+  margin-left: 15%;
+  top: 409px;
+  left: 832px;
+  border-radius: 9px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.input {
+  width: 325px;
+  height: 40px;
+  border-radius: 9px;
+  background-color: #f5f5f5;
+  border-width: 0px;
+  padding: 5px;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.span {
+  color: #346bd4;
+  margin-left: 15px;
+}
+.sign-up-button {
+  background-color: #000000;
+  color: white;
+  width: 325px;
+  height: 40px;
+  border-radius: 9px;
+  border-width: 0px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+.krishna {
+  text-align: center;
+}
+.error {
+  color: red;
+}
